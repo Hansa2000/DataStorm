@@ -1,0 +1,7 @@
+# pdf files
+*.pdf
+
+# Given Data files
+test_data.csv
+train_data.csv
+validation_data.csv
